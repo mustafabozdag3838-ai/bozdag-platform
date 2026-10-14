@@ -1,0 +1,28 @@
+{
+  "name": "BOZDAĞ PLATFORM — Teklif Programı",
+  "short_name": "Bozdağ Platform",
+  "description": "GKS BEIJUN 32 metre kiralama ve teklif hesaplama programı",
+  "lang": "tr",
+  "start_url": "./index.html",
+  "id": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "any",
+  "background_color": "#f4f6fa",
+  "theme_color": "#0d1727",
+  "icons": [
+    {
+      "src": "./icons/icon-192.png",
+      "type": "image/png",
+      "sizes": "192x192",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "./icons/icon-512.png",
+      "type": "image/png",
+      "sizes": "512x512",
+      "purpose": "any maskable"
+    }
+  ],
+  "prefer_related_applications": false
+}
